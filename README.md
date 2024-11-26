@@ -1,2 +1,5 @@
 # Retail-Performance-Analysis
-Analysis on the Superstore Dataset
+Analysis of the Superstore Dataset
+
+# Dataset
+This Data set is based on superstore products details 
